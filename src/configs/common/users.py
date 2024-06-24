@@ -1,0 +1,3 @@
+"""Users"""
+UNAUTH_USER = 2
+UNAUTH_GROUP = 2
